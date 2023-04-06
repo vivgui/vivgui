@@ -12,7 +12,7 @@ If you or anybody you know is looking for a seasoned frontend developer who is a
 
 * 🌍  I'm based in the Dominican Republic, in the AST timezone
 * ✉️  You can contact me at [me@vivian.do](mailto:me@vivian.do)
-* 🚀  I'm currently working on [Red Pixel Themes](https://redpixelthemes.com/))
+* 🚀  I'm currently working on [Red Pixel Themes](https://redpixelthemes.com/)
 
 
 ### Skills
