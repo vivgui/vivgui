@@ -4,7 +4,7 @@ Hi 👋 My name is Vivian Guillen
 I'm a Frontend Developer with a passion for CSS & JS
 --------------------------------------------------
 
-I've been learning to code for 10 years now, time flies! My first language was Javascript and I feel in love with it right away, even today I feel very comfortable with it. I'm currently learning Laravel to become a full-stack developer. My goal is to be able to develop all the pieces of a SaaS by myself.
+I've been learning to code for 10 years now, time flies! It feels like just yesterday when I wrote my first line of JavaScript. I fell head over heels for it and even today, I'm as comfortable with it as ever. These days, I'm diving into Laravel, setting my sights on becoming a full-stack developer. My goal? To be able to code a SaaS all by myself!
 
 ⭐ After freelancing for the last 5 years I'm ready for a change and I'm now looking for a full-time job. I'm mainly a Vue girl but can also work with React, and have some experience with Laravel. I'm also a huge Tailwind CSS fan (so much that I run [Tailwind Weekly](http://tailwindweekly.com/)) and love working with it too.
 
