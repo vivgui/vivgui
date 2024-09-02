@@ -1,7 +1,7 @@
 Hi 👋 My name is Vivian Guillen
 ===============================
 
-I'm a Frontend Developer with a passion for CSS & JS
+I'm a Fullstack Developer with a passion for CSS & JS
 --------------------------------------------------
 
 I've been learning to code for 10 years now, time flies! It feels like just yesterday when I wrote my first line of JavaScript. I fell head over heels for it and even today, I'm as comfortable with it as ever. These days, I'm diving into Laravel, setting my sights on becoming a full-stack developer. My goal? To be able to code a SaaS all by myself!
